@@ -16,3 +16,6 @@ sudo apt-get install libqtgui4
 sudo apt-get install libqt4-test
 sudo apt-get install libportaudio2
 pip install -U numpy 
+
+
+python3 -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.12.0-py3-none-any.whl
