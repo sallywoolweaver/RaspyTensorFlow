@@ -19,3 +19,4 @@ sudo apt-get install libportaudio2
 pip install -U numpy 
 
 
+try cap = cv2.VideoCapture(-1) if camera is issue. make sure restarted first.
