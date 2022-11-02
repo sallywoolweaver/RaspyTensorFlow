@@ -1,6 +1,7 @@
 # RaspyTensorFlow
 
-using - https://qengineering.eu/install-tensorflow-2-lite-on-raspberry-pi-4.html (this doesn't work anymore. use tensorflow lite)
+
+https://pimylifeup.com/raspberry-pi-tensorflow-lite/
 
 list of dependancies 
 
